@@ -35,6 +35,9 @@
             >GitHub Code</a
           >
         </td>
+        <td class="time-spent">
+          I spent about 10 hrs. on this
+        </td>
       </tr>
     </table>
   </div>
@@ -138,10 +141,10 @@ export default {
 }
 
 .footer-item {
-  width: 100%;
+  width: 50%;
 }
 
-.footer-item a {
+.footer-item a, .time-spent {
   text-decoration: none;
   color: azure;
 }
