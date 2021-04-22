@@ -1,4 +1,4 @@
-To the TA grading thsi:
+To the TA grading this:
 If you wish to test the Admin features of the site, 
 (It merely includes the ability to make requests completed)
 Then you can use the username: duffyinator
